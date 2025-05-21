@@ -3,7 +3,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-Framework-blue)
 ![Prisma](https://img.shields.io/badge/Prisma-ORM-green)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-blueviolet)
-![Deployed](https://img.shields.io/badge/Status-Deployed-brightgreen)
 
 > A modern and feature-rich personal expense tracker to record, categorize, and analyze your spending — built using **Next.js**, **Prisma**, **TailwindCSS**, and more.
 
