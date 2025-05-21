@@ -19,9 +19,10 @@
 * 🔐 **User Authentication** – Secure sign-in/sign-up functionality
 * 📊 **Dashboard View** – Displays income, expenses, and overall balance
 * ➕ **Add Transactions** – Create entries for income and expenses with details
+* 🔁 **Recurring Transactions** – Automatically repeat frequent expenses/income
 * 🧾 **Budget Management** – Set and track your monthly budgets
-* 📈 **Interactive Charts** *(Optional enhancement)* – Visualize spending trends
-* 📨 **Email Notifications** *(Optional)* – Receive summary or alerts via email
+* 📈 **Interactive Charts** – Visualize spending trends
+* 📨 **Email Notifications** – Receive monthly reports and budget alerts
 * 💡 **Modern UI** – Built with reusable components using TailwindCSS
 
 ---
@@ -44,7 +45,7 @@
 | ORM/Database   | Prisma, PostgreSQL/SQLite                         |
 | Authentication | NextAuth / Custom                                 |
 | Deployment     | Vercel / Render                                   |
-| Other Tools    | EmailJS / Resend (emails), Toast UI, LocalStorage |
+| Other Tools    | EmailJS / Resend (emails), ShadCN UI              |
 
 ---
 
